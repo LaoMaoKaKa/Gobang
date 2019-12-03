@@ -6,3 +6,14 @@
 Unity 2018.2.15f1 (64-bit)
 
 作者：Joker
+
+
+
+
+This is a casual game of Gobang!
+
+Do not use for business, only for learning!
+
+Unity 2018.2.15f1 (64-bit)
+
+By Joker
