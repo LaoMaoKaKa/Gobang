@@ -5,7 +5,7 @@
 
 Unity 2018.2.15f1 (64-bit)
 
-作者：Joker
+作者：Fox
 
 
 
@@ -16,4 +16,4 @@ Do not use for business, only for learning!
 
 Unity 2018.2.15f1 (64-bit)
 
-By Joker
+By Fox
