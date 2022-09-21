@@ -1,20 +1,12 @@
-# Gobang
-这是一个读书的时候随意写的五子棋项目！
+# Candy-Elimination
 
-觉得有点意思，所以记录了下来，应该还不算太坑！
+糖果消除
 
-Unity 2018.2.15f1 (64-bit)
+tolua+业务逻辑
 
-作者：老猫
+入门项目，留个纪念
 
-
-This is a gobang game written casually when reading!
-
-I thought it was a bit interesting, so I recorded it. It should not be too bad!
-
-Unity 2018.2.15f1 (64-bit)
-
-By LaoMao
+最新编译版本：Unity 2019.4.20f1c1 (64-bit)
 
 效果展示如下：
 
