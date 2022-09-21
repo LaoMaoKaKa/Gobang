@@ -19,7 +19,7 @@ By LaoMao
 
 <div class="img-content">
   
-<img width="236" height="422" src="https://github.com/LaoMaoKaKa/Note/blob/main/Data/Image/Gobang/%E5%BC%80%E5%A7%8B%E7%95%8C%E9%9D%A2.png" />
-<img width="236" height="422" src="https://github.com/LaoMaoKaKa/Note/blob/main/Data/Image/Gobang/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.png" />
+<img width="236" height="422" src="https://github.com/LaoMaoKaKa/Note/blob/main/Data/Image/Gobang/%E5%BC%80%E5%A7%8B%E7%95%8C%E9%9D%A2.png"/>
+<img width="236" height="422" src="https://github.com/LaoMaoKaKa/Note/blob/main/Data/Image/Gobang/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.png"/>
   
 </div>
