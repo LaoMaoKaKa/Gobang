@@ -19,6 +19,7 @@ By LaoMao
 
 <div class="img-content">
   
+  <img width="236" height="422" src="https://github.com/LaoMaoKaKa/Note/blob/main/Data/Image/Candy-Elimination/%E7%B3%96%E6%9E%9C%E6%B6%88%E9%99%A4_%E5%BC%80%E5%A7%8B%E7%95%8C%E9%9D%A2.png"/>
 <img width="236" height="422" src="https://github.com/LaoMaoKaKa/Note/blob/main/Data/Image/Gobang/%E5%BC%80%E5%A7%8B%E7%95%8C%E9%9D%A2.png"/>
 <img width="236" height="422" src="https://github.com/LaoMaoKaKa/Note/blob/main/Data/Image/Gobang/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.png"/>
   
