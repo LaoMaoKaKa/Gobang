@@ -16,7 +16,7 @@ Unity 2018.2.15f1 (64-bit)
 
 By LaoMao
 
-效果图如下：
+效果展示如下：
 
 <div class="img-content">
   
